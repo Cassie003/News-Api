@@ -1,0 +1,25 @@
+/* navbar {
+    background-color:#ff8d00;
+} */
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+body{
+    background-color:#fffff0;
+    overflow-x: hidden;
+}
+
+
+.card {
+    height:600px;
+    width:600px
+}
+
+h1 >.heading{
+    text-align: center;
+
+}
