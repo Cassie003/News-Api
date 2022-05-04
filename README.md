@@ -38,4 +38,4 @@ ___
 
 
 # LICENCE 
-[MIT ](https://github.com/Cassie003/News-Api/blob/master/Licence)
+& @2022 Casey Minu
